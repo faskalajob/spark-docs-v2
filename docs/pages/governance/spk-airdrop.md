@@ -5,7 +5,7 @@
 :::
 
 :::info
-SPK Pre-farming Airdrop is ongoing. Find current stats on the [Pre-Farm Airdrop Dashboard](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
+SPK Pre-farming Airdrop is ongoing. Find current stats on the [Pre-Farming Airdrop Dashboard](https://spark.blockanalitica.com/v1/ethereum/airdrop/).
 :::
 
 ## Has SPK been launched yet?

@@ -146,6 +146,16 @@ export default defineConfig({
           link: '/user-guides/spark-liquidity-layer/',
         },
         { 
+          text: 'Troubleshooting',
+          link: '/user-guides/troubleshooting/',
+        }, 
+      ],
+    },
+    { 
+      text: 'REWARDS',
+      collapsed: false,
+      items: [ 
+        { 
           text: 'Spark Rewards',
           link: '/rewards/',
           collapsed: true,
@@ -156,10 +166,31 @@ export default defineConfig({
             }
           ],
         },
+        {
+          text: 'Spark Points',
+          link: '/points/',
+          collapsed: true,
+          items: [ 
+            { 
+              text: 'Pendle Campaign', 
+              link: '/points/pendle', 
+            }
+          ],
+        }
+      ],
+    },
+    { 
+      text: 'GOVERNANCE',
+      collapsed: false,
+      items: [ 
         { 
-          text: 'Troubleshooting',
-          link: '/user-guides/troubleshooting/',
-        }, 
+          text: 'SPK Token', 
+          link: '/governance/spk-token', 
+        },
+        { 
+          text: 'SPK Airdrop', 
+          link: '/governance/spk-airdrop', 
+        },
       ],
     },
     { 
